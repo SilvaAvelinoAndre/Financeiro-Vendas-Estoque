@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\Financeiro\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4117870683.index

@@ -1,0 +1,161 @@
+
+mar. 24, 2023 13:14:11.691 NEW SESSION
+mar. 24, 2023 13:14:11.691 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:14:11.691 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:14:11.691 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:14:50.420 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:14:50.420 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:14:50.436 [Parent 4284, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+mar. 24, 2023 13:16:49.536 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:16:49.547 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:16:49.549 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:17:13.283 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:17:13.299 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:17:13.299 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:29:24.940 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:29:24.956 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:29:24.956 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:30:02.412 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:30:02.427 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:30:17.488 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:30:17.488 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 13:30:17.504 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 14:13:51.392 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 14:13:51.408 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 14:13:51.408 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 20:36:56.151 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 20:36:56.167 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 20:38:09.588 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 20:38:09.591 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 20:38:09.593 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 24, 2023 20:38:09.725 [Parent 6828, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+
+mar. 26, 2023 15:22:43.658 NEW SESSION
+mar. 26, 2023 15:22:43.658 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 26, 2023 15:22:43.658 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 26, 2023 15:22:43.673 [Parent 744, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+
+mar. 26, 2023 21:53:10.354 NEW SESSION
+mar. 26, 2023 21:53:10.354 [ERROR viaduct::backend::ffi] Missing HTTP status
+mar. 26, 2023 21:53:10.355 [ERROR viaduct::backend::ffi] Missing HTTP status
+
+abr. 01, 2023 13:37:42.610 NEW SESSION
+abr. 01, 2023 13:37:42.610 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 13:37:42.929 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 13:40:40.613 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 13:40:40.614 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 13:42:52.331 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 13:42:52.332 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 13:53:46.434 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 13:53:46.434 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:02:30.794 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:02:30.809 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:12:50.124 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:12:50.125 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:15:53.604 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:15:53.609 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:15:53.611 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 14:15:53.685 [Parent 11184, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+abr. 01, 2023 15:03:37.126 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 15:03:37.135 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 15:07:01.816 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 15:07:01.816 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 15:08:13.769 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 15:08:13.770 [ERROR viaduct::backend::ffi] Missing HTTP status
+
+abr. 01, 2023 16:53:11.698 NEW SESSION
+abr. 01, 2023 16:53:11.698 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 16:53:11.717 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 17:15:14.993 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 17:15:14.993 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:41:01.899 [Parent 6268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+abr. 01, 2023 20:41:01.903 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:41:01.911 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:45:48.678 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:45:48.679 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:54:02.707 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:54:02.708 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:54:50.254 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:54:50.256 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:59:34.669 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 20:59:34.670 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 21:04:46.143 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 01, 2023 21:04:46.154 [ERROR viaduct::backend::ffi] Missing HTTP status
+
+abr. 03, 2023 16:59:21.02 NEW SESSION
+abr. 03, 2023 16:59:21.02 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 16:59:21.25 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:00:02.825 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:00:02.826 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:00:27.19 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:00:27.20 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:00:59.546 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:00:59.547 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:00:59.591 [Parent 12780, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+abr. 03, 2023 17:04:56.898 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:04:56.899 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:12:27.547 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:12:27.548 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:44:47.372 [Parent 7184, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+abr. 03, 2023 17:44:52.04 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:44:52.04 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:45:04.19 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:45:04.19 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:50:12.10 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 03, 2023 17:50:12.11 [ERROR viaduct::backend::ffi] Missing HTTP status
+
+abr. 05, 2023 15:45:45.225 NEW SESSION
+abr. 05, 2023 15:45:45.225 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 15:45:45.247 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 15:47:21.958 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 15:47:21.959 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 15:51:31.709 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 15:51:31.709 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:02:52.868 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:02:52.870 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:02:52.876 [Parent 10476, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+abr. 05, 2023 16:09:28.726 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:09:28.736 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:11:01.308 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:11:01.308 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:31:13.199 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:31:13.215 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:37:48.265 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:37:48.265 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:46:04.09 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:46:04.10 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:51:02.540 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:51:02.540 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:52:16.413 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:52:16.428 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:53:41.107 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 16:53:41.107 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 17:42:39.796 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 17:42:39.797 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 17:47:32.639 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 17:47:32.649 [ERROR viaduct::backend::ffi] Missing HTTP status
+
+abr. 05, 2023 23:24:06.861 NEW SESSION
+abr. 05, 2023 23:24:06.861 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 23:24:06.862 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 23:46:00.218 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 23:46:00.229 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 23:49:34.254 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 23:49:34.254 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 23:58:18.570 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 05, 2023 23:58:18.583 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 24:01:40.846 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 24:01:40.857 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 24:03:40.569 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 24:03:40.570 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 03:05:58.441 [Parent 6760, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+
+abr. 06, 2023 09:28:43.353 NEW SESSION
+abr. 06, 2023 09:28:43.353 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 09:28:43.384 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 09:29:26.115 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 09:29:26.115 [ERROR viaduct::backend::ffi] Missing HTTP status
+
+abr. 06, 2023 09:57:00.440 NEW SESSION
+abr. 06, 2023 09:57:00.440 [ERROR viaduct::backend::ffi] Missing HTTP status
+abr. 06, 2023 09:57:00.441 [ERROR viaduct::backend::ffi] Missing HTTP status

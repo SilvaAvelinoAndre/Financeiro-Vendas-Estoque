@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.20.1.final using JasperReports Library version 6.20.1-7584acb244139816654f64e2fd57a00d3e31921e  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="estados" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="2626f73a-eb3a-46f0-a00e-07a951741c85">
+	<property name="com.jaspersoft.studio.data.sql.tables">
+		<![CDATA[ZmluYW5jZWlyby5lc3RhZG8gQVMgLDk0LDc3LDA4NDllNTU4LWUxOTAtNGNlOC04NWRlLWEzODM0
+ZTlkNjAzNzs=]]>
+	</property>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="Financeiro Data"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT nome,
+	sigla
+FROM financeiro.estado]]>
+	</queryString>
+	<field name="nome" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="nome"/>
+		<property name="com.jaspersoft.studio.field.label" value="nome"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="estado"/>
+	</field>
+	<field name="sigla" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.name" value="sigla"/>
+		<property name="com.jaspersoft.studio.field.label" value="sigla"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="estado"/>
+	</field>
+	<title>
+		<band height="71" splitType="Stretch">
+			<image>
+				<reportElement x="228" y="0" width="80" height="70" uuid="1fb17331-d0c2-463e-9086-5a30c59ec55d"/>
+				<imageExpression><![CDATA["/src/main/webapp/resources/imagens/java web.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="45" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="15" width="550" height="25" uuid="eb6563b0-28ae-4ff5-a6b7-893a971ddf1e"/>
+				<textElement textAlignment="Center">
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[Relatório de Estados Cadastrados]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="23" splitType="Stretch">
+			<staticText>
+				<reportElement x="80" y="0" width="100" height="20" uuid="d61018df-6802-4d9b-aaa1-abad1033b2d9">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="eff43b26-57fd-44db-a168-ccec17c8523a"/>
+				</reportElement>
+				<text><![CDATA[Estados]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="240" y="0" width="56" height="20" uuid="010ccc12-0410-445b-b623-be8cc5a49e7b">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="f945e21f-0e7f-4243-9867-286eb264f28a"/>
+				</reportElement>
+				<text><![CDATA[Sigla]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement x="80" y="0" width="56" height="20" uuid="f557f580-662b-4e2c-b4a1-28741e3b7fad">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="eff43b26-57fd-44db-a168-ccec17c8523a"/>
+				</reportElement>
+				<box>
+					<pen lineColor="rgba(3, 3, 3, 0.6862745)"/>
+					<bottomPen lineWidth="0.5"/>
+				</box>
+				<textFieldExpression><![CDATA[$F{nome}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="240" y="0" width="56" height="20" uuid="1016d2f5-e8bd-4521-a0e1-638a3a0e9e14">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="f945e21f-0e7f-4243-9867-286eb264f28a"/>
+				</reportElement>
+				<box>
+					<pen lineColor="rgba(3, 3, 3, 0.6862745)"/>
+					<bottomPen lineWidth="0.5"/>
+				</box>
+				<textFieldExpression><![CDATA[$F{sigla}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<pageFooter>
+		<band height="65" splitType="Stretch">
+			<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
+			<staticText>
+				<reportElement x="-2" y="0" width="555" height="20" uuid="f0221a28-501d-4151-8740-8bf6dfaf3f37"/>
+				<textElement textAlignment="Center">
+					<font size="8"/>
+				</textElement>
+				<text><![CDATA[Rua Bela vista, 51 - Águas de Santa Bárbara - SP]]></text>
+			</staticText>
+		</band>
+	</pageFooter>
+</jasperReport>
